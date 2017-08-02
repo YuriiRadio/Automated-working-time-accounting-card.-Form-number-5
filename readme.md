@@ -12,4 +12,6 @@
 
 Детальніше <a href="https://github.com/YuriiRadio/Automated-working-time-accounting-card.-Form-number-5/wiki">тут</a>
 
+<a href="https://github.com/YuriiRadio/Automated-working-time-accounting-card.-Form-number-5/raw/master/Tabel-Blank-Form%E2%84%965-ukr_16x.xls">Завантажити</a>
+
 <b>Yurii Radio - 2017</b>

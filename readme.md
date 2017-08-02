@@ -10,6 +10,6 @@
 
 - всі розрахунки виконуються автоматично;
 
-Детальніше <a href="">тут</a>
+Детальніше <a href="https://github.com/YuriiRadio/Automated-working-time-accounting-card.-Form-number-5/wiki">тут</a>
 
 <b>Yurii Radio - 2017</b>
